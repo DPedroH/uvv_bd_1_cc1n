@@ -1,2 +1,7 @@
 # uvv_bd_1_cc1n
-Repositório destinado aos trabalhos de bancos de dados.
+ 
+ PSet1
+ 
+ aluno: Pedro Henrique Cardoso Carvalho
+ Professor: Abrantes Araújo Silva Filho
+ Turma: CC1N
